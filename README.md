@@ -1,7 +1,6 @@
 # PentestReport
-This is a simple report module for penetration test students.
-I created this report during the test on the "internal" machine from the TryHackMe Lab.
+These are simple reports module for penetration test students.
+I created these reports during my test on the "internal" and "Gatekeeper" lab in TryHackMe
 
-Any comments and recommendation that will helping me to make my reporting way better are very  appreciated
 
 
